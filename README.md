@@ -46,13 +46,14 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
  Liczba lwów zmniejszyła się przez ostatnie 25 lat z ok. 100 tys. do ok. 25 tys. osobników. Systematycznie zmniejsza się liczba i powierzchnia zajmowanych przez nie siedlisk oraz ilość dostępnego pokarmu. Rozwijająca się gospodarka krajów afrykańskich powoduje, że człowiek wkracza coraz głębiej na terytoria zajmowane dotychczas przez dzikie zwierzęta.
    W niektórych krajach wprowadzono całkowity zakaz polowań na lwy, w innych polowania dopuszczalne są jedynie w przypadkach tzw. „problematycznych”, dotyczących lwów nagminnie atakujących stada zwierząt hodowlanych oraz w przypadkach stanowiących zagrożenie dla ludzi.
    
+   
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lion_%28Panthera_leo_krugeri%29_02.jpg/200px-Lion_%28Panthera_leo_krugeri%29_02.jpg" height="200" width="300">
   
   <h2 id="naturalniwrogowie">4. Naturalni wrogowie. </h2>
    
    Lwy są na początku łańcucha pokarmowego. Nie mają naturalnych wrogów, którzy mogą im bardzo zagrażać. Rywalizują z innymi zwierzętami z rodziny kotowatych m.in. lamparty, gepardy, pantery. Niekiedy zagrożeniem sa też równiez hieny, ale tylko gdy lew upoluje zdobycz, która chcą przejąć hieny, i jest sam. Hieny nie mają szans jeden na jednego z lwem. Lwy rywalizuja o posadę w stadzie między sobą, są przypadki, gdy nie dopuszczają niektórych osobników do stada.
      
-     <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Serengeti_Lion_Running_saturated.jpg/200px-Serengeti_Lion_Running_saturated.jpg" height="200" width="300">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Serengeti_Lion_Running_saturated.jpg/200px-Serengeti_Lion_Running_saturated.jpg" height="200" width="300">
     
    <h2 id="charakterystyka">5. Skrótowe-ogólne informacje.</h2>
    
@@ -85,7 +86,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
                 <td>150–250 kg, rek. 375 kg (samce); 100–160 kg (samice) </td>
             </tr> 
                 <tr>
-                <tdPożywienie</td>
+                <td>Pożywienie</td>
                 <td>duże i małe kręgowce – od młodych słoni po antylopy </td>
             </tr>  
                
