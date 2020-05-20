@@ -36,7 +36,7 @@ Każde stado ma swoją własną hierarchię, w której najsłabszy samiec ma ran
 W wieku 1-2 miesięcy lwiątka zaczynają oddalać się od matki i bawić się z innymi, dziecięce plamy na futrze znikają w wieku 3 miesięcy. Lwy zaczynają polować w wieku 11 miesięcy, po kolejnych 5 miesiącach są już w pełni samodzielne. Lwia grzywa zaczyna rosnąć w wieku 2 lat. Samce są dojrzałe płciowo po 2,5 roku, samice w wieku 2,5–4 lat.
 Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą dożyć wieku ponad 10 lat. Notowano pojedyncze przypadki 16-letnich samców żyjących na wolności. Taki wiek, 15–16 lat, dla samic jest natomiast wiekiem przeciętnym. W Parku Serengeti samice żyją do 18 lat. Przeciętny wiek życia w niewoli wynosi 13 lat. Najstarszy znany lew żył 30 lat.  
    
-   <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lion_%28Panthera_leo_krugeri%29_02.jpg/200px-Lion_%28Panthera_leo_krugeri%29_02.jpg" height="200" width="300">" height="200" width="300">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lion_%28Panthera_leo_krugeri%29_02.jpg/200px-Lion_%28Panthera_leo_krugeri%29_02.jpg" height="200" width="300">
    
    
    <h2 id="zagrozenie">3. Zagrożenie.</h2>
