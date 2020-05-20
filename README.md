@@ -52,7 +52,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
    
    <br>
    
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lion_%28Panthera_leo_krugeri%29_02.jpg/200px-Lion_%28Panthera_leo_krugeri%29_02.jpg" height="200" width="300">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Serengeti_Lion_Running_saturated.jpg/200px-Serengeti_Lion_Running_saturated.jpg" height="200" width="300">
   
   <h2 id="naturalniwrogowie">4. Naturalni wrogowie. </h2>
    
