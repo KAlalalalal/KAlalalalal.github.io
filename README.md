@@ -64,12 +64,8 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
     
    <h2 id="charakterystyka">5. Skrótowe-ogólne informacje.</h2>
    
-   <table>
-            <thead>
-                <tr>
-                    <th><b>Dane podstawowe (samce są większe od samic)</b></th>
-                  </tr>
-            </thead>
+   <table>     
+       </thead>
             <tbody>
             <tr>
                 <td><b>Długość całkowita<b></td>
