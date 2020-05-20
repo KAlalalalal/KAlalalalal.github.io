@@ -26,6 +26,8 @@
    
    Lwy zamieszkiwały niegdyś Afrykę, Azję i Europę, a jeśli uznać lwy amerykańskie za podgatunek Panthera leo – to również Amerykę Północną i Południową. Współcześnie występują tylko w Afryce, gdzie są narażone na wyginięcie i szczątkowo w Indiach, gdzie ich stan liczebny określony został jako krytyczny.Na przekór popularnemu określeniu „król dżungli” lew jest zwierzęciem otwartych równin. Można go spotkać w całej Afryce, głównie subsaharyjskiej, z wyjątkiem terenów pustynnych i lasów równikowych. Lwy dobrze się adaptują do wielu środowisk, lecz preferują sawanny bogate w ssaki kopytne, gdzie – obok hieny cętkowanej – są drugim wielkim drapieżnikiem. Zasiedlają również tereny krzaczaste, górskie i półpustynne. W górach Bale w Etiopii populacja lwów żyje na wysokości 4240 m n.p.m. W Afryce Południowej zostały wytępione, z wyjątkiem osobników chronionych w parkach narodowych Krugera i Kalahari Gemsbok. 
    
+   <br>
+   
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okonjima_Lioness.jpg/240px-Okonjima_Lioness.jpg" height="200" width="300">
    
    <h2 id="trybzycia">2. Tryb życia.</h2>
@@ -35,6 +37,8 @@ Każde stado ma swoją własną hierarchię, w której najsłabszy samiec ma ran
    Większość czasu spędzają odpoczywając – do 20 godzin w ciągu doby. Lwy są mięsożercami polującymi głównie na ssaki kopytne, jak antylopy, zebry, gazele, bawoły afrykańskie, żyrafy i guźce zwyczajne oraz sporadycznie młode większych ssaków, takich jak słonie, hipopotamy czy nosorożce. Gdy brakuje pokarmu, zdarza im się napadać na zwierzęta hodowlane, zjadać gryzonie, ptaki czy padlinę, a nawet ludzi.Na terenach otwartych lwy najczęściej polują w nocy. Tam, gdzie są wysokie trawy lub gęste krzewy, polowania zdarzają się również w ciągu dnia. Samce rzadko uczestniczą w polowaniach. Lwy rozmnażają się przez cały rok.Małe lwy rodzą się ślepe, ich oczy otwierają się około 3–11 dnia. W wieku 10–15 dni łapy młodych są już dość silne i zwierzęta zaczynają chodzić, choć na pełną sprawność muszą poczekać jeszcze 3-4 tygodnie. Do ósmego tygodnia życia matka trzyma je w ukryciu. Miesięcznym lwom wyrastają pierwsze zęby.
 W wieku 1-2 miesięcy lwiątka zaczynają oddalać się od matki i bawić się z innymi, dziecięce plamy na futrze znikają w wieku 3 miesięcy. Lwy zaczynają polować w wieku 11 miesięcy, po kolejnych 5 miesiącach są już w pełni samodzielne. Lwia grzywa zaczyna rosnąć w wieku 2 lat. Samce są dojrzałe płciowo po 2,5 roku, samice w wieku 2,5–4 lat.
 Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą dożyć wieku ponad 10 lat. Notowano pojedyncze przypadki 16-letnich samców żyjących na wolności. Taki wiek, 15–16 lat, dla samic jest natomiast wiekiem przeciętnym. W Parku Serengeti samice żyją do 18 lat. Przeciętny wiek życia w niewoli wynosi 13 lat. Najstarszy znany lew żył 30 lat.  
+
+<br>
    
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lion_%28Panthera_leo_krugeri%29_02.jpg/200px-Lion_%28Panthera_leo_krugeri%29_02.jpg" height="200" width="300">
    
@@ -46,12 +50,15 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
  Liczba lwów zmniejszyła się przez ostatnie 25 lat z ok. 100 tys. do ok. 25 tys. osobników. Systematycznie zmniejsza się liczba i powierzchnia zajmowanych przez nie siedlisk oraz ilość dostępnego pokarmu. Rozwijająca się gospodarka krajów afrykańskich powoduje, że człowiek wkracza coraz głębiej na terytoria zajmowane dotychczas przez dzikie zwierzęta.
    W niektórych krajach wprowadzono całkowity zakaz polowań na lwy, w innych polowania dopuszczalne są jedynie w przypadkach tzw. „problematycznych”, dotyczących lwów nagminnie atakujących stada zwierząt hodowlanych oraz w przypadkach stanowiących zagrożenie dla ludzi.
    
+   <br>
    
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Lion_%28Panthera_leo_krugeri%29_02.jpg/200px-Lion_%28Panthera_leo_krugeri%29_02.jpg" height="200" width="300">
   
   <h2 id="naturalniwrogowie">4. Naturalni wrogowie. </h2>
    
    Lwy są na początku łańcucha pokarmowego. Nie mają naturalnych wrogów, którzy mogą im bardzo zagrażać. Rywalizują z innymi zwierzętami z rodziny kotowatych m.in. lamparty, gepardy, pantery. Niekiedy zagrożeniem sa też równiez hieny, ale tylko gdy lew upoluje zdobycz, która chcą przejąć hieny, i jest sam. Hieny nie mają szans jeden na jednego z lwem. Lwy rywalizuja o posadę w stadzie między sobą, są przypadki, gdy nie dopuszczają niektórych osobników do stada.
+   
+   <br>
      
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Serengeti_Lion_Running_saturated.jpg/200px-Serengeti_Lion_Running_saturated.jpg" height="200" width="300">
     
