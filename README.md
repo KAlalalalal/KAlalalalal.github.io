@@ -6,9 +6,9 @@
  </head>
     <body>
         <style>
-        body { background-color: lightorange;}
+        body { background-color: lightbrown;}
         </style>
-     <style> h2 { color: orange; }</style>
+     <style> h2 { color: brown; }</style>
    
    
    <h1>Lew-król zwierząt</h1>
