@@ -26,7 +26,7 @@
    
    Lwy zamieszkiwały niegdyś Afrykę, Azję i Europę, a jeśli uznać lwy amerykańskie za podgatunek Panthera leo – to również Amerykę Północną i Południową. Współcześnie występują tylko w Afryce, gdzie są narażone na wyginięcie i szczątkowo w Indiach, gdzie ich stan liczebny określony został jako krytyczny.Na przekór popularnemu określeniu „król dżungli” lew jest zwierzęciem otwartych równin. Można go spotkać w całej Afryce, głównie subsaharyjskiej, z wyjątkiem terenów pustynnych i lasów równikowych. Lwy dobrze się adaptują do wielu środowisk, lecz preferują sawanny bogate w ssaki kopytne, gdzie – obok hieny cętkowanej – są drugim wielkim drapieżnikiem. Zasiedlają również tereny krzaczaste, górskie i półpustynne. W górach Bale w Etiopii populacja lwów żyje na wysokości 4240 m n.p.m. W Afryce Południowej zostały wytępione, z wyjątkiem osobników chronionych w parkach narodowych Krugera i Kalahari Gemsbok. 
    
-   <img src="<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okonjima_Lioness.jpg/240px-Okonjima_Lioness.jpg" height="200" width="300">" height="200" width="300">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Okonjima_Lioness.jpg/240px-Okonjima_Lioness.jpg" height="200" width="300">
    
    <h2 id="trybzycia">2. Tryb życia.</h2>
    
