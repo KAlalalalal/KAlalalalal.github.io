@@ -107,6 +107,5 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
  <p><em>żródło: <a href="https://pl.wikipedia.org/wiki/Lew_afryka%C5%84ski">wikipedia</a></em></p>
     Po więcej zdjęć zapaszam na
     <p><em> OBRAZY <a href="https://www.google.com/search?bih=626&biw=1366&source=univ&tbm=isch&q=zdj%C4%99cia+lew&hl=pl&client=firefox-b-d&sa=X&ved=2ahUKEwiCuOrPhcLpAhVLy6QKHU71CMIQsAR6BAgKEAE">wikipedia</a></em></p>
-    
-   </body>
-    </html>
+     </body>
+     </html>
