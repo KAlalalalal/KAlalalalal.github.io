@@ -99,6 +99,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
    
    Jednym z rozwiązań jest tworzenie parków narodowych. Inne działania, na skalę mikro, to np. pokrywanie kraali materiałem imitującym solidną strukturę, którą lew uznaje za przeszkodę nie do pokonania. Choć niezupełnie się to sprawdza, jako że zabudowania, w których Namibijczycy trzymają kozy i owce, są często budowane niedbale, w okryciach kraali są dziury, obiekt jest niedokładnie zakryty. Lwy to wykorzystują, podobnie zresztą jak same zwierzęta gospodarskie – wyżej wspomniane osły wydostały się na wolność i przepłaciły to życiem. Dlatego organizacje pozarządowe, m.in. DeLHRA, proponują skuteczniejszą metodę. Wyposażają rolników w urządzenia dźwiękowe (np. syreny, broń hukowa), które umożliwiają przepłoszenie lwa.
    
+   <br>
    
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HansomeLion_002.jpg/220px-HansomeLion_002.jpg" height="200" width="300">
    
