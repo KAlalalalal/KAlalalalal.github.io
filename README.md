@@ -6,7 +6,7 @@
  </head>
     <body>
         <style>
-        body { background-color: lightorange;}
+        body { background-color: orange;}
         </style>
      <style> h2 { color: orange; }</style>
    
