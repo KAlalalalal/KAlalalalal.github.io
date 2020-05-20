@@ -73,7 +73,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
                 <td>Długość bez ogona</td>
                 <td>140–230 cm </td>
             </tr>  
-                 <tr>
+               <tr>
                 <td>Długość ogona</td>
                 <td>60–100 cm  </td>
             </tr>  
@@ -81,11 +81,11 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
                 <td>Wysokość</td>
                 <td>80–120 cm </td>
             </tr>  
-                <tr>
+               <tr>
                 <td>Masa ciała</td>
                 <td>150–250 kg, rek. 375 kg (samce); 100–160 kg (samice) </td>
             </tr> 
-                <tr>
+               <tr>
                 <td>Pożywienie</td>
                 <td>duże i małe kręgowce – od młodych słoni po antylopy </td>
             </tr>  
@@ -107,5 +107,5 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
     Po więcej zdjęć zapaszam na
     <p><em> OBRAZY <a href="https://www.google.com/search?bih=626&biw=1366&source=univ&tbm=isch&q=zdj%C4%99cia+lew&hl=pl&client=firefox-b-d&sa=X&ved=2ahUKEwiCuOrPhcLpAhVLy6QKHU71CMIQsAR6BAgKEAE">wikipedia</a></em></p>
     
-   </BODY>
-    </HTML>
+   </body>
+    </html>
