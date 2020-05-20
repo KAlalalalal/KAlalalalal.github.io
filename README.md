@@ -3,7 +3,7 @@
         <title>MOJE ULUBIONE ZWIERZĘ-LEW</title>
         <meta charset="utf-8">
        
-    </head>
+ </head>
     <body>
         <style>
         body { background-color: lightorange;}
@@ -60,7 +60,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
    
    <br>
      
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Serengeti_Lion_Running_saturated.jpg/200px-Serengeti_Lion_Running_saturated.jpg" height="200" width="300">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Serengeti_Lion_Running_saturated.jpg/200px-Serengeti_Lion_Running_saturated.jpg" height="200" width="300">
     
    <h2 id="charakterystyka">5. Skrótowe-ogólne informacje.</h2>
    
@@ -68,8 +68,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
             <thead>
                 <tr>
                     <th><b>Dane podstawowe (samce są większe od samic)</b></th>
-                  
-                </tr>
+                  </tr>
             </thead>
             <tbody>
             <tr>
@@ -95,8 +94,7 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
                <tr>
                 <td>Pożywienie</td>
                 <td>duże i małe kręgowce – od młodych słoni po antylopy </td>
-            </tr>  
-               
+            </tr> 
                  </tbody>
         </table>
    
@@ -108,10 +106,10 @@ Samce żyją krócej niż samice. Jeśli wcześniej nie zginą w walce, mogą do
    
    <br>
    
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HansomeLion_002.jpg/220px-HansomeLion_002.jpg" height="200" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HansomeLion_002.jpg/220px-HansomeLion_002.jpg" height="200" width="300">
    
    
-    <p><em>żródło: <a href="https://pl.wikipedia.org/wiki/Lew_afryka%C5%84ski">wikipedia</a></em></p>
+ <p><em>żródło: <a href="https://pl.wikipedia.org/wiki/Lew_afryka%C5%84ski">wikipedia</a></em></p>
     Po więcej zdjęć zapaszam na
     <p><em> OBRAZY <a href="https://www.google.com/search?bih=626&biw=1366&source=univ&tbm=isch&q=zdj%C4%99cia+lew&hl=pl&client=firefox-b-d&sa=X&ved=2ahUKEwiCuOrPhcLpAhVLy6QKHU71CMIQsAR6BAgKEAE">wikipedia</a></em></p>
     
